@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **SQA**
 
-- 📫 How to reach me **aronii5738@gmail.com
+- 📫 How to reach me **aroni.sqa@gmail.com
 
 <p align="left">
 </p>
